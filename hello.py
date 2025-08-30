@@ -14,7 +14,7 @@ print(kendrick_lamar)
 
 likes_mangos = True
 
-if not likes_mangos:
+if likes_mangos:
     print("skibidi")
 else:
     print("boiii ts not tuff")
