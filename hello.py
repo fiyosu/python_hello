@@ -1,1 +1,4 @@
-print("nya meow meow meow")
+x = 6
+y = 7
+print(x + y)
+
