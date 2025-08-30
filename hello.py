@@ -12,3 +12,9 @@ kendrick_lamar = diddyblud + mango
 print(f"{food} is equal to {diddyblud + mango}")
 print(kendrick_lamar)
 
+likes_mangos = True
+
+if not likes_mangos:
+    print("skibidi")
+else:
+    print("boiii ts not tuff")
