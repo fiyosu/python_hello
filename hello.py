@@ -1,1 +1,1 @@
-print("ts funny")
+print("nya meow meow meow")
